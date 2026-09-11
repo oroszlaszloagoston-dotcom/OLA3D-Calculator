@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+artifacts/
+.tools/
+.vs/
+*.user
+*.suo
+*.pdb
+settings.json
+language.ini
